@@ -6,7 +6,7 @@
   
 [![BosunKwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosunKwak&theme=radical&show_icons=true)](https://github.com/swiftie1230/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosunKwak&layout=compact)](https://github.com/swiftie1230)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosunKwak&layout=compact)](https://github.com/bosunKwak)
 
 
 </div>
