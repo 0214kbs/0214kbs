@@ -28,5 +28,5 @@
   <a href="214kbs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <!-- </div> -->
 
-## ✏️ Reseacrh Experience
+## ✏️ Research Experience
   [논문 링크](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
