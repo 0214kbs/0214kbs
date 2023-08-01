@@ -5,7 +5,7 @@
 
 ## 📊 My Github Stats
 <!--   ![BosunKwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=0214kbs&theme=radical&show_icons=true) -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0214kbs)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0214kbs&langs_count=10&layout=compact)
 <!-- 
  ## 📈 My Algortihm Stat
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0214kbs)] 
