@@ -10,16 +10,16 @@
  ## 📈 My Algortihm Stat
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0214kbs)] 
 -->
-<!-- 
 ## ✏️ Stack I'm learning is
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
--->
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=6DB33quare&logo=nextdotjs&logoColor=#000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=6DB33quare&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=6DB33quare&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=6DB33quare&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled component-DB7093?style=6DB33quare&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zustand-AD29B6?style=6DB33quare&logo=&logoColor=white"/>
+</div>
+
 ## 📬 How to reach me: ...
 <!-- <div align=center>  -->
    <a href="https://bskwak.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">
