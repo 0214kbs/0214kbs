@@ -5,7 +5,7 @@
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbosunKwak&count_bg=%236298EB&title_bg=%23B8B9BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <a href="214kbs@gmail.com"> <img src="https://img.shields.io/badge/214kbs@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-  <a href="https://bskwak.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-black">
+  <a href="https://bskwak.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-black">
   <a href="https://bosun-dev.vercel.app/"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
   <a href="https://www.instagram.com/bosun0214/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> 
 </div>
@@ -39,10 +39,10 @@
 
 <h3> ⚒ Communication Tools </h3>
 <div>
-  <img src="https://img.shields.io/badge/figma-FF7362?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br />
