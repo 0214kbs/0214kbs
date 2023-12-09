@@ -1,13 +1,25 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient) -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswiftie1230&count_bg=%2310FFF8&title_bg=%2340C9F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bosunKwak) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbosunKwak&count_bg=%236298EB&title_bg=%23B8B9BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/0214kbs)
+
+<h1>👋 Hello, This is Bosun's GitHub! 👋 </h3>
+<div>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbosunKwak&count_bg=%236298EB&title_bg=%23B8B9BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="214kbs@gmail.com"> <img src="https://img.shields.io/badge/214kbs@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+  <a href="https://bskwak.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-black">
+  <a href="https://bosun-dev.vercel.app/"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
+  <a href="https://www.instagram.com/bosun0214/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> 
+</div>
 
 <!--
 ## 📊 My Github Stats
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0214kbs&langs_count=10&layout=compact)
 -->
 
-##  💻 Main Tech Stack
+<br />
+<br />
+
+
+<h3>  💻 Main Tech Stacks </h3>
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -25,8 +37,9 @@
 
 <br />
 
-## ⚒ Communication Tools
+<h3> ⚒ Communication Tools </h3>
 <div>
+  <img src="https://img.shields.io/badge/figma-FF7362?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/gitlab-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -34,16 +47,6 @@
 
 <br />
 
-## ✏️ Research Experience
-  [논문 링크](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
+<h3>  ✏️ Research Experience </h3>
 
-<br />
-<br />
-<hr />
-
-<!-- ## 📬 How to reach me: -->
-<div align="center">
-   <a href="https://bskwak.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">
-  <a href="https://www.instagram.com/bosun0214/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> 
-  <a href="214kbs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-</div>
+[Practical Order-Revealing Encryption with Short CIphertext](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
