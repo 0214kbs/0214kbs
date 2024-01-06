@@ -49,4 +49,4 @@
 
 <h3>  ✏️ Research Experience </h3>
 
-[Practical Order-Revealing Encryption with Short CIphertext](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
+[Practical Order-Revealing Encryption with Short Ciphertext](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
