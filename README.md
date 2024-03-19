@@ -47,6 +47,12 @@
 
 <br />
 
+<h3> ⌨️ Algorithm Level </h3>
+<div>
+  <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0214kbs"></a>
+<!--   <a><img src="http://mazandi.herokuapp.com/api?handle=0214kbs&theme=warm"/></a> -->
+</div>
+
 <h3>  ✏️ Research Experience </h3>
 
 [Practical Order-Revealing Encryption with Short Ciphertext](https://www.jstage.jst.go.jp/article/transinf/E105.D/11/E105.D_2022NGL0004/_pdf)
