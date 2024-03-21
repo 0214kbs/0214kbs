@@ -49,7 +49,7 @@
 
 <h3> ⌨️ Algorithm Level </h3>
 <div>
-  <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0214kbs"></a>
+  <a href="https://solved.ac/profile/0214kbs"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0214kbs"></a>
 <!--   <a><img src="http://mazandi.herokuapp.com/api?handle=0214kbs&theme=warm"/></a> -->
 </div>
 
